@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kowshick02
-- 👀 I’m interested in web developing and fullstack developing
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning web developing on my own
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me = kowshickmk88@gmail.com
